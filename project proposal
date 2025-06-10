@@ -1,0 +1,48 @@
+## Project Proposal: Mitigating Misinformation on Emerging Social Media Platforms
+
+### Scenario Identification
+
+This project will investigate the critical issue of **social media misinformation campaigns**, focusing on an emerging social media platform that is failing to adequately mitigate the spread of fake news and conspiracy theories. The scenario will highlight the significant impact of such unchecked misinformation on its users, the platform's ethical obligations, and the inherent tension between combating misinformation and preserving freedom of expression. We hypothesize that while many established platforms have developed (albeit imperfect) content moderation systems, newer platforms often struggle to scale these efforts, leading to a more permissive environment for harmful narratives. This allows us to explore the challenges faced by platforms in their nascent stages of growth and how they can proactively embed ethical design and policy from the ground up.
+
+Specifically, we will analyze a hypothetical "new" social media platform that prioritizes rapid user acquisition and minimal content intervention, which, as a consequence, becomes a fertile ground for the rapid dissemination of false or misleading information related to public health (e.g., vaccine skepticism, unproven cures) and political events (e.g., election disinformation).
+
+### Relevance and Core Issues
+
+The proliferation of misinformation on social media poses severe threats to public discourse, democratic processes, public health, and individual well-being. This scenario directly intersects with several critical course themes:
+
+* **Ethics in Computing:** Examining the moral responsibility of tech companies to their users and society, especially when their platforms are exploited for harm.
+* **Privacy and Digital Footprints:** How user data might be exploited or algorithmically amplified to spread misinformation, and the privacy implications of content moderation.
+* **Cybersecurity (Information Integrity):** The vulnerability of information ecosystems to malicious actors and the technical measures required to safeguard content integrity.
+* **Professionalism and Accountability:** The duties of platform developers and administrators to design and manage systems responsibly.
+* **Diversity and Inclusion:** How misinformation disproportionately affects vulnerable communities and contributes to polarization.
+* **Legal Concerns:** Potential regulatory frameworks, platform liability, and the complex interplay with freedom of speech doctrines.
+
+The central dilemma lies in balancing the platform's ethical duty to protect its users from harm with the fundamental right to freedom of expression. Overly aggressive content moderation risks censorship and alienating users, while inaction allows dangerous falsehoods to flourish.
+
+### Preliminary Research Sources
+
+Our preliminary research will draw from academic literature, industry reports, legal analyses, and established journalistic investigations into misinformation. Key areas of focus will include:
+
+**Academic & Research Institutions:**
+
+* **MIT, Stanford, Oxford Internet Institute (OII):** These institutions have conducted extensive research on the virality of fake news, the psychological factors behind its spread, and the role of algorithms. (e.g., Vosoughi et al. (2018) on the spread of false news on Twitter; studies on "information pandemic" dynamics).
+* **Pew Research Center, Reuters Institute:** For data on public perception of news, trust in media, and social media news consumption.
+
+**Legal & Policy Frameworks:**
+
+* **Section 230 of the Communications Decency Act (USA):** Understanding platform immunity and ongoing debates about its reform.
+* **Digital Services Act (DSA) (EU):** A comprehensive regulatory framework for online platforms, including obligations for tackling disinformation.
+* **Existing case law and governmental reports:** Related to platform liability, censorship, and free speech in the digital age.
+
+**Ethical & Philosophical Foundations:**
+
+* **Ethical frameworks:** Utilitarianism (greatest good for the greatest number vs. potential harm), Deontology (duty-based ethics for platform providers), and Virtue Ethics (what constitutes a "responsible" platform).
+* **Codes of Conduct (ACM/IEEE):** Principles related to public good, avoiding harm, and maintaining integrity in computing.
+
+**Industry & Journalistic Analyses:**
+
+* **Reports from major social media companies (e.g., Meta's transparency reports, X's policies):** While our scenario is hypothetical, studying how established platforms attempt to combat misinformation will provide valuable context on methods, successes, and failures.
+* **Investigative journalism:** Articles and documentaries detailing specific misinformation campaigns and their real-world consequences (e.g., election interference, public health crises).
+* **Fact-checking organizations (e.g., Snopes, Poynter Institute's International Fact-Checking Network):** To understand methodologies for identifying and debunking false narratives.
+
+This preliminary research will form the foundation for a comprehensive ethical analysis and the development of actionable solutions for our hypothetical emerging social media platform.

@@ -120,3 +120,6 @@ Each student must submit a **1–2 page** personal reflection addressing:
 ### 7. Concluding Remarks
 
 This Final Project synthesizes the ethical, social, and professional principles discussed throughout our course. It not only serves as an academic exercise but also mirrors the type of multidimensional analysis computing professionals confront in real-world scenarios. By delving into these complex issues, students hone their capacity for critical thinking, team collaboration, and ethical leadership—all traits that will define their contributions in the broader tech industry and society.
+
+![image](https://github.com/user-attachments/assets/50f5cfb3-210c-4285-93ac-c4edaa043e3d)
+
